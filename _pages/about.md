@@ -14,7 +14,7 @@ I also very much enjoy learning from and doing math with Dr. [Michael Wijaya](ht
 
 When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵 .  
 
-#### Research & Interests : 📚
+<b>Research & Interests :</b> 📚
 
 I am interested in applied and interdisciplinary projects - usually around computational and data science. Recently, I am interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. I very much hope to learn more about opportunities in this area. ~
 
@@ -22,25 +22,21 @@ Publication :
 
 1. Carleton, T., Arguedas, K., Hess, H., Klos S., Malevich, S., McCusker, K., Sehaumpai, M., Tavarez, H., Wimberger, E. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
 
-#### Education / Experience : 
+<b>Education / Experience :</b> 
 
 - 2020-present: Undergraduate Researcher, Booth Weather & Climate Research Group
 - 2022/05-2022/08: Research Intern at Rhodium Group LLC
 - 2022/05-2022/08: Student participant at Google Software Product Sprint (SPS) program
 - 2019-present: B.S. Applied Mathematics & Computer Science, CUNY City College
 
-#### Talks :
+<b>Talks :</b>
 
-- Feb. 2023 - Annual Joint Meetings of the MAA-Florida Section and FTYCMA
-  - _Title : Using Machine Learning to Detect Fake Online Reviews (expository talk)_ 
-- May 2021 - The MAA Annual Meeting of the Metropolitan Section, NY
-  - _Title : Average Size of Randomly-Generated Dominating Sets_ 
-- April 2021 - Garden State Undergraduate Mathematics Conference, NJ
-  - _Title : Average Size of Randomly-Generated Dominating Sets_
-- May 2020 - The MAA Annual Meeting of the Metropolitan Section, NY
-  - _Title : Investigating Identities Involving the Floor of Square Roots Expressions_
+- Feb. 2023 - Annual Joint Meetings of the MAA-Florida Section and FTYCMA. _Title : Using Machine Learning to Detect Fake Online Reviews (expository talk)_ 
+- May 2021 - The MAA Annual Meeting of the Metropolitan Section, NY. _Title : Average Size of Randomly-Generated Dominating Sets_ 
+- April 2021 - Garden State Undergraduate Mathematics Conference, NJ. _Title : Average Size of Randomly-Generated Dominating Sets_
+- May 2020 - The MAA Annual Meeting of the Metropolitan Section, NY. _Title : Investigating Identities Involving the Floor of Square Roots Expressions_
 
-#### Contact : 📫
+<b>Contact :</b> 📫
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 

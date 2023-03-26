@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Page"
+title                    : "My Homepage"
 title_separator          : "-"
 name                     : &name "Max Sehaumpai"
 description              : &description "Undergraduate Researcher | Applied Math & CS @ CCNY"
