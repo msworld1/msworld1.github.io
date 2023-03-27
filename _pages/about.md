@@ -16,11 +16,13 @@ When not working, I can be found cycling on a Citi bike 🚴 or listening to som
 
 <b>Research & Interests :</b> 📚
 
-I am interested in applied and interdisciplinary projects - usually around computational and data science. Recently, I am interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. I very much hope to learn more about opportunities in this area. ~
+I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. I very much hope to learn more about opportunities in this area. ~
+
+My current collaborations and ongoing projects are in (1) atmospheric science, (2) assistive technology for patients with age-related macular degeneration, and (3) graph theory (specifically dominating sets). 
 
 Publication : 
 
-1. Carleton, T., Arguedas, K., Hess, H., Klos S., Malevich, S., McCusker, K., Sehaumpai, M., Tavarez, H., Wimberger, E. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
+1. T. Carleton, K. Arguedas, H. Hess, S. Klos, S. Malevich, K. McCusker, M. Sehaumpai, H. Tavarez, E. Wimberger. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
 
 <b>Education / Experience :</b> 
 
@@ -41,3 +43,5 @@ Publication :
 - 🌎 Lab : Marshak Room MR902
 
 🎵 I am currently listeing to ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [地鐵等待](https://www.youtube.com/watch?v=JlXbH3ZiV6w), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), and [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI).
+
+*Last updated: March 2023*
