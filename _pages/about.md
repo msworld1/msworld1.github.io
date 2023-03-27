@@ -16,19 +16,17 @@ When not working, I can be found cycling on a Citi bike 🚴 or listening to som
 
 <b>Research & Interests :</b> 📚
 
-I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. I very much hope to learn more about opportunities in this area. ~
-
-My current collaborations and ongoing projects are in (1) atmospheric science, (2) assistive technology for patients with age-related macular degeneration, and (3) graph theory (specifically dominating sets). 
+I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am recently interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. I very much hope to learn more about opportunities in this area. ~
 
 Publication : 
 
-1. T. Carleton, K. Arguedas, H. Hess, S. Klos, S. Malevich, K. McCusker, M. Sehaumpai, H. Tavarez, E. Wimberger. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
+1. Carleton, T., Arguedas, K., Hess, H., Klos S., Malevich, S., McCusker, K., Sehaumpai, M., Tavarez, H., Wimberger, E. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
 
 <b>Education / Experience :</b> 
 
 - 2020-present: Undergraduate Researcher, Booth Weather & Climate Research Group
-- 2022/05-2022/08: Research Intern at Rhodium Group LLC
-- 2022/05-2022/08: Student participant at Google Software Product Sprint (SPS) program
+- May 2022 - Aug. 2022: Research Intern at Rhodium Group LLC
+- May 2022 - Aug. 2022: Student participant at Google Software Product Sprint (SPS) program
 - 2019-present: B.S. Applied Mathematics & Computer Science, CUNY City College
 
 <b>Talks :</b>
