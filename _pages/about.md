@@ -31,6 +31,7 @@ Publication :
 
 <b>Talks :</b>
 
+- April 2023 - International Mathematics and Statistics Student Research Symposium. _Title : Using Finite-State Machines to Study Randomly-Generated Dominating Sets_
 - Feb. 2023 - Annual Joint Meetings of the MAA-Florida Section and FTYCMA. _Title : Using Machine Learning to Detect Fake Online Reviews (expository talk)_ 
 - May 2021 - The MAA Annual Meeting of the Metropolitan Section, NY. _Title : Average Size of Randomly-Generated Dominating Sets_ 
 - April 2021 - Garden State Undergraduate Mathematics Conference, NJ. _Title : Average Size of Randomly-Generated Dominating Sets_
