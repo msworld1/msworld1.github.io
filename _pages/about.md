@@ -16,7 +16,7 @@ When not working, I can be found cycling on a Citi bike 🚴 or listening to som
 
 <b>Research & Interests :</b> 📚
 
-I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am recently interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. I very much hope to learn more about opportunities in this area. ~
+I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am recently interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. I am actively seeking summer research opportunities in this area. ~
 
 Publication : 
 
