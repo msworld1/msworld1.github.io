@@ -25,8 +25,8 @@ Publication :
 <b>Education / Experience :</b> 
 
 - 2020-present: Undergraduate Researcher, Booth Weather & Climate Research Group
-- May 2022 - Aug. 2022: Research Intern at Rhodium Group LLC
-- May 2022 - Aug. 2022: Student participant at Google Software Product Sprint (SPS) program
+- 05/2022 - 08/2022: Research Intern at Rhodium Group LLC
+- 05/2022 - 08/2022: Student participant at Google Software Product Sprint (SPS) program
 - 2019-present: B.S. Applied Mathematics & Computer Science, CUNY City College
 
 <b>Talks :</b>
