@@ -37,6 +37,12 @@ Publication :
 - April 2021 - Garden State Undergraduate Mathematics Conference, NJ. _Title : Average Size of Randomly-Generated Dominating Sets_
 - May 2020 - The MAA Annual Meeting of the Metropolitan Section, NY. _Title : Investigating Identities Involving the Floor of Square Roots Expressions_
 
+<b>Programming Skills :</b>
+
+**Languages :** Python, R, C/C++, Java, shell scripts, HTML5, CSS3, SQL. 
+
+**Technologies :** Pandas, Numpy, scikit-learn, Matplotlib, Dask, Git, LaTeX, Jupyter Lab/Notebook, etc. 
+
 <b>Contact :</b> 📫
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
