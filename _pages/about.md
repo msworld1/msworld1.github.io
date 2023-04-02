@@ -42,6 +42,6 @@ Publication :
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 I am currently listeing to ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [地鐵等待](https://www.youtube.com/watch?v=JlXbH3ZiV6w), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), and [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI).
+🎵 I am currently listeing to ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [地鐵等待](https://www.youtube.com/watch?v=JlXbH3ZiV6w), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), [数字人生](https://www.youtube.com/watch?v=0HVTY0dMEs0), [最天使](https://www.youtube.com/watch?v=azynen7n8cw),[我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), and [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI).
 
 *Last updated: March 2023*
