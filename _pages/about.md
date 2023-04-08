@@ -12,7 +12,7 @@ Welcome to my page! I am a 4th year applied math & CS major at the City College 
 
 I also very much enjoy learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics 📔✏️. We are currently applying techniques from elementary analysis and theoretical cs to study a subtopic of graphs. 
 
-When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵 .  
+When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/4x25jp70rb82i23/MS_CV_P.pdf?dl=0). 
 
 <b>Research & Interests :</b> 📚
 
@@ -44,4 +44,4 @@ Publication :
 
 🎵 I am currently listeing to ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [地鐵等待](https://www.youtube.com/watch?v=JlXbH3ZiV6w), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), [数字人生](https://www.youtube.com/watch?v=0HVTY0dMEs0), [最天使](https://www.youtube.com/watch?v=azynen7n8cw),[我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), and [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI).
 
-*Last updated: March 2023*
+*Last updated: April 2023*
