@@ -12,11 +12,11 @@ Welcome to my page! I am a 4th year applied math & CS major at the City College 
 
 I also very much enjoy learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics 📔✏️. We are currently applying techniques from elementary analysis and theoretical cs to study a subtopic of graphs. 
 
-When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/4x25jp70rb82i23/MS_CV_P.pdf?dl=0). 
+When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/hxet2r4c678qdbf/MS_CV_P_April_2023.pdf?dl=0). 
 
 <b>Research & Interests :</b> 📚
 
-I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am recently interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. I am actively seeking summer research opportunities in this area. ~
+I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am recently interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. ~
 
 Publication : 
 
