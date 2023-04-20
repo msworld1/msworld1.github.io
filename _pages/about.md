@@ -12,7 +12,7 @@ Welcome to my page! I am a 4th year applied math & CS major at the City College 
 
 I also very much enjoy learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics 📔✏️. We are currently applying techniques from elementary analysis and theoretical cs to study a subtopic of graphs. 
 
-When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/yka6gxsaocf0ml4/MS_CV_P_April_14_2023.pdf?dl=0). 
+When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/hms5w8t69zzu9nn/MS_CV_P_04_20_2023.pdf?dl=0). 
 
 I am actively seeking summer research opportunities in biostatistics, mathematical biology, or related fields ~ 
 
@@ -33,6 +33,7 @@ Publication :
 
 <b>Talks :</b>
 
+- April 2023 - The MAA Annual Meeting of the Metropolitan Section, NY. _Title : Using Finite-State Machines to Study Randomly-Generated Dominating Sets_
 - April 2023 - International Mathematics and Statistics Student Research Symposium. _Title : Using Finite-State Machines to Study Randomly-Generated Dominating Sets_
 - Feb. 2023 - Annual Joint Meetings of the MAA-Florida Section and FTYCMA. _Title : Using Machine Learning to Detect Fake Online Reviews (expository talk)_ 
 - May 2021 - The MAA Annual Meeting of the Metropolitan Section, NY. _Title : Average Size of Randomly-Generated Dominating Sets_ 
@@ -44,6 +45,6 @@ Publication :
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 I am currently listeing to ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [数字人生](https://www.youtube.com/watch?v=0HVTY0dMEs0), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), and [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI).
+🎵 I am currently listeing to ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [9420](https://www.youtube.com/watch?v=GciqRHfTscg), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [数字人生](https://www.youtube.com/watch?v=0HVTY0dMEs0), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), and [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI).
 
 *Last updated: April 2023*
