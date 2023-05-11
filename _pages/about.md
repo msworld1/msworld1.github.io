@@ -14,8 +14,6 @@ I also very much enjoy learning from and doing math with Dr. [Michael Wijaya](ht
 
 When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/hms5w8t69zzu9nn/MS_CV_P_04_20_2023.pdf?dl=0). 
 
-I am actively seeking summer research opportunities in biostatistics, mathematical biology, or related fields ~ 
-
 <b>Research & Interests :</b> 📚
 
 I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am recently interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. ~
