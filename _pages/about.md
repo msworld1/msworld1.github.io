@@ -12,7 +12,7 @@ Welcome to my page! I am a 4th year applied math & CS major at the City College 
 
 Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
 
-This summer, I am thriled to be joining Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group in the Department of Mathematics working on computational neuroscience. On the side, I will also be mentoring a high school research project as part of the [Science Mentorship Institute](https://sci-mi.github.io/) (sci-MI).
+This summer, I am thriled to be joining Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group working on computational neuroscience. On the side, I will also be mentoring a high school research project as part of the [Science Mentorship Institute](https://sci-mi.github.io/) (sci-MI).
 
 When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/z6xv2q52l2wpw98/MS_CV_P_05_27_2023.pdf?dl=0). 
 
@@ -26,7 +26,9 @@ Publication :
 
 <b>Education / Experience :</b> 
 
+- 06/2023-present: Research Intern, Prof. Amarasingham's research group (computational neuroscience)
 - 2020-present: Undergraduate Researcher, Booth Weather & Climate Research Group
+- 05/2023-present: Mentor, Science Mentorship Institute (sci-MI)
 - 05/2022-08/2022: Research Intern, Rhodium Group LLC
 - 05/2022-08/2022: Student participant, Google Software Product Sprint (SPS) program
 - 2019-present: B.S. Applied Mathematics & Computer Science, CUNY City College
