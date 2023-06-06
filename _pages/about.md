@@ -18,7 +18,7 @@ When not working, I can be found cycling on a Citi bike 🚴 or listening to som
 
 <b>Research & Interests :</b> 📚
 
-I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am recently interested in biostatistics and how probability & statistics can be used in, for example, medical research and clinical trials. ~
+I am interested in applied and interdisciplinary projects - usually around computational and data science. In particular, I am interested in biostatistics and computational biology as well as how probability & statistics can be used in, for example, medical research and clinical trials. ~
 
 Publication : 
 
@@ -26,9 +26,9 @@ Publication :
 
 <b>Education / Experience :</b> 
 
-- 06/2023-present: Research Intern, Prof. Amarasingham's research group (computational neuroscience)
+- 06/2023-present: Research Assistant, Prof. Amarasingham's research group (computational neuroscience)
 - 2020-present: Undergraduate Researcher, Booth Weather & Climate Research Group
-- 05/2023-present: Mentor, Science Mentorship Institute (sci-MI)
+- 05/2023-present: Research Mentor, Science Mentorship Institute (sci-MI)
 - 05/2022-08/2022: Research Intern, Rhodium Group LLC
 - 05/2022-08/2022: Student participant, Google Software Product Sprint (SPS) program
 - 2019-present: B.S. Applied Mathematics & Computer Science, CUNY City College
@@ -37,6 +37,6 @@ Publication :
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 Some of my favorite songs ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [倔強](https://www.youtube.com/watch?v=UnO8UHbqUCs), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=Q_K6atAZVb0), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [数字人生](https://www.youtube.com/watch?v=0HVTY0dMEs0), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [刺](https://www.youtube.com/watch?v=VNahtGaLZac), [富士山下](https://www.youtube.com/watch?v=qxTjxO2JcDk), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), and [我们的爱](https://www.youtube.com/watch?v=SCFlWiMbHd0).
+🎵 Some of my favorite songs ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [倔強](https://www.youtube.com/watch?v=UnO8UHbqUCs), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=Q_K6atAZVb0), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [数字人生](https://www.youtube.com/watch?v=0HVTY0dMEs0), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [刺](https://www.youtube.com/watch?v=VNahtGaLZac), [富士山下](https://www.youtube.com/watch?v=qxTjxO2JcDk), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [我们的爱](https://www.youtube.com/watch?v=SCFlWiMbHd0), [小幸運](https://www.youtube.com/watch?v=Uwl18twabyI).
 
 *Last updated: May 2023*
