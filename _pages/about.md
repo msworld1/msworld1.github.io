@@ -26,7 +26,7 @@ Publication :
 
 <b>Education / Experience :</b> 
 
-- 06/2023-present: Research Assistant, Prof. Amarasingham's research group (computational neuroscience)
+- 06/2023-present: Research Intern, Prof. Amarasingham's research group (computational neuroscience)
 - 2020-present: Undergraduate Researcher, Booth Weather & Climate Research Group
 - 05/2023-present: Mentor, Science Mentorship Institute (sci-MI)
 - 05/2022-08/2022: Research Intern, Rhodium Group LLC
