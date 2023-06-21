@@ -12,7 +12,7 @@ Welcome to my page! I am a 4th year applied math & CS major at the City College 
 
 Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
 
-This summer, I am thriled to be joining Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group working on computational neuroscience.
+This summer, I am thriled to be joining Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group studying computational neuroscience ~ 
 
 When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/z6xv2q52l2wpw98/MS_CV_P_05_27_2023.pdf?dl=0). 
 
@@ -28,7 +28,7 @@ Publication :
 
 - 06/2023-present: Research Assistant, Prof. Amarasingham's research group (computational neuroscience)
 - 2020-present: Undergraduate Researcher, Booth Weather & Climate Research Group
-- 05/2023-present: Research Mentor, Science Mentorship Institute (sci-MI)
+- 05/2023-present: Mentor, Science Mentorship Institute (sci-MI)
 - 05/2022-08/2022: Research Intern, Rhodium Group LLC
 - 05/2022-08/2022: Student participant, Google Software Product Sprint (SPS) program
 - 2019-present: B.S. Applied Mathematics & Computer Science, CUNY City College
@@ -37,4 +37,4 @@ Publication :
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 Some of my favorite songs ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [倔強](https://www.youtube.com/watch?v=UnO8UHbqUCs), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [数字人生](https://www.youtube.com/watch?v=0HVTY0dMEs0), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [刺](https://www.youtube.com/watch?v=VNahtGaLZac), [ 一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [富士山下](https://www.youtube.com/watch?v=qxTjxO2JcDk), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [我们的爱](https://www.youtube.com/watch?v=SCFlWiMbHd0), [小幸運](https://www.youtube.com/watch?v=Uwl18twabyI), [爱过的人](https://www.youtube.com/watch?v=EYrv5mEZ2K4).
+🎵 Some of my favorite songs ~ [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [倔強](https://www.youtube.com/watch?v=UnO8UHbqUCs), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [数字人生](https://www.youtube.com/watch?v=0HVTY0dMEs0), [闺蜜的话](https://www.youtube.com/watch?v=4hSFyTO1LpQ), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [最天使](https://www.youtube.com/watch?v=9l5hu_YBJSU), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [刺](https://www.youtube.com/watch?v=VNahtGaLZac), [ 一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [我们的爱](https://www.youtube.com/watch?v=SCFlWiMbHd0), [小幸運](https://www.youtube.com/watch?v=Uwl18twabyI), [爱过的人](https://www.youtube.com/watch?v=EYrv5mEZ2K4).
