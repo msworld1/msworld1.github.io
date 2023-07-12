@@ -14,7 +14,7 @@ Before, I also had great time learning from and doing math with Dr. [Michael Wij
 
 This summer, I am thriled to be joining Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group studying computational neuroscience ~ 
 
-When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/z6xv2q52l2wpw98/MS_CV_P_05_27_2023.pdf?dl=0). 
+When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/8a0xrox1815phcv/MS_CV_P_07_2023.pdf?dl=0). 
 
 <b>Research & Interests :</b> 📚
 
@@ -37,4 +37,8 @@ Publication :
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 Some of my favorite songs ~  [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [最天使](https://www.youtube.com/watch?v=9l5hu_YBJSU), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [晚书吟](https://www.youtube.com/watch?v=xknDTQ4q7DM), [爱过的人](https://www.youtube.com/watch?v=EYrv5mEZ2K4).
+🎵 Some of my favorite songs ~  [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [最天使](https://www.youtube.com/watch?v=9l5hu_YBJSU), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [晚书吟](https://www.youtube.com/watch?v=fHZloqMXhdc).
+
+"Everything is super important. Until you are sick. Then you realize there was only ever one thing that was important. Your health. But nonetheless we borrow from the bank of our health, taking loans on stress and sleepless nights to pay for something that doesn’t really matter," AM ~
+
+*Last updated: July 2023*
