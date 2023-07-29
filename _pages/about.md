@@ -37,7 +37,7 @@ Publication :
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 Some of my favorite songs ~  [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [最天使](https://www.youtube.com/watch?v=9l5hu_YBJSU), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [晚书吟](https://www.youtube.com/watch?v=fHZloqMXhdc).
+🎵 Some of my favorite songs ~ [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [最天使](https://www.youtube.com/watch?v=9l5hu_YBJSU), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [晚书吟](https://www.youtube.com/watch?v=fHZloqMXhdc), [满天星辰不及你](https://www.youtube.com/watch?v=u1DN6TT78IE).
 
 Favroite quote ~ "Everything is super important. Until you are sick. Then you realize there was only ever one thing that was important. Your health. But nonetheless we borrow from the bank of our health, taking loans on stress and sleepless nights to pay for something that doesn’t really matter," AM ~
 
