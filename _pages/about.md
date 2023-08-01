@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I am a 4th year applied math & CS major at the City College of New York, CUNY. I am currently an undergraduate researcher in the [Weather & Climate Research Group](https://jfbooth.ccny.cuny.edu/), where I am fortunate to be advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. I am grateful to be funded by the Goldwater Foundation and previously the City College Fellowship.
+Welcome to my page! I am a 4th year applied math & CS major at the City College of New York, CUNY. I am currently an undergraduate researcher in the [Weather & Climate Research Group](https://jfbooth.ccny.cuny.edu/), where I am advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. I am grateful to be funded by the Goldwater Foundation and previously the City College Fellowship.
 
 Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
 
-This summer, I am thriled to be joining Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group studying computational neuroscience ~ 
+This summer, I am thriled to be joining Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group studying computational neuroscience 🧠 ~ 
 
 When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/8a0xrox1815phcv/MS_CV_P_07_2023.pdf?dl=0). 
 
@@ -37,7 +37,7 @@ Publication :
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 Some of my favorite songs ~ [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [最天使](https://www.youtube.com/watch?v=9l5hu_YBJSU), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [晚书吟](https://www.youtube.com/watch?v=fHZloqMXhdc), [满天星辰不及你](https://www.youtube.com/watch?v=u1DN6TT78IE).
+🎵 Some of my favorite songs ~ [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [最天使](https://www.youtube.com/watch?v=9l5hu_YBJSU), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [晚书吟](https://www.youtube.com/watch?v=fHZloqMXhdc), [满天星辰不及你](https://www.youtube.com/watch?v=u1DN6TT78IE), [我们的爱](https://www.youtube.com/watch?v=SCFlWiMbHd0).
 
 Favroite quote ~ "Everything is super important. Until you are sick. Then you realize there was only ever one thing that was important. Your health. But nonetheless we borrow from the bank of our health, taking loans on stress and sleepless nights to pay for something that doesn’t really matter," AM ~
 
