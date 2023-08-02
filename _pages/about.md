@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I am a 4th year applied math & CS major at the City College of New York, CUNY. I am currently an undergraduate researcher in the [Weather & Climate Research Group](https://jfbooth.ccny.cuny.edu/), where I am advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. I am grateful to be funded by the Goldwater Foundation and previously the City College Fellowship.
+Welcome to my page! I am a 4th year applied math & CS major at the City College of New York, CUNY. I am currently a research assistant in the [Research in Atmospheric Dynamics Group](https://jfbooth.ccny.cuny.edu/) advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
 
-Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
-
-This summer, I am thriled to be joining Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group studying computational neuroscience 🧠 ~ 
+This summer, I am thriled to be joining Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group studying computational neuroscience 🧠. I am grateful to be funded by the Goldwater Foundation and previously the City College Fellowship.
 
 When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/8a0xrox1815phcv/MS_CV_P_07_2023.pdf?dl=0). 
 
@@ -26,8 +24,8 @@ Publication :
 
 <b>Education / Experience :</b> 
 
-- 06/2023-present: Research Intern, Prof. Amarasingham's research group (computational neuroscience)
-- 2020-present: Undergraduate Researcher, Booth Weather & Climate Research Group
+- 06/2023-present: Research Assistant, Prof. Amarasingham's research group (computational neuroscience)
+- 2020-present: Research Assistant, Research in Atmospheric Dynamics Group
 - 05/2023-present: Mentor, Science Mentorship Institute (sci-MI)
 - 05/2022-08/2022: Research Intern, Rhodium Group LLC
 - 05/2022-08/2022: Student participant, Google Software Product Sprint (SPS) program
