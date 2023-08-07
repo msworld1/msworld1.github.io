@@ -16,7 +16,7 @@ When not working, I can be found cycling on a Citi bike 🚴 or listening to som
 
 <b>Research & Interests :</b> 📚
 
-I am interested in applied and interdisciplinary projects. In particular, I am interested in biostatistics and data science. I am drawn to the application of probability and statistics in computational biology and clinical trials among others. 
+My interests are in applied and interdisciplinary projects. In particular, I am interested in biostatistics and data science. I am enthusiastic about the application of probability and statistics in computational biology and clinical trials among others. I am also interested in vision and optometric research including those involving assistive technology.  
 
 Publication : 
 
@@ -32,10 +32,13 @@ Publication :
 - 2019-present: B.S. Applied Mathematics & Computer Science, CUNY City College
 
 <b>Contact :</b> 📫
+
+I am always open to discussing research ideas and academic collaborations ~ 
+
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 Some of my favorite songs ~ [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [最天使](https://www.youtube.com/watch?v=9l5hu_YBJSU), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [晚书吟](https://www.youtube.com/watch?v=fHZloqMXhdc), [满天星辰不及你](https://www.youtube.com/watch?v=u1DN6TT78IE), [我们的爱](https://www.youtube.com/watch?v=SCFlWiMbHd0).
+🎵 Some of my favorite songs ~ [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [夜晚屋顶的会飞的贼](https://www.youtube.com/watch?v=kmB8vrKFPUI), [满天星辰不及你](https://www.youtube.com/watch?v=u1DN6TT78IE), [我们的爱](https://www.youtube.com/watch?v=SCFlWiMbHd0).
 
 Favroite quote ~ "Everything is super important. Until you are sick. Then you realize there was only ever one thing that was important. Your health. But nonetheless we borrow from the bank of our health, taking loans on stress and sleepless nights to pay for something that doesn’t really matter," AM ~
 
