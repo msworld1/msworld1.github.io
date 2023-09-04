@@ -20,6 +20,8 @@ My interests are in applied and interdisciplinary projects. In particular, I am 
 
 Publication : 
 
+2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple, Z. Zhu. *MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration*. 2023 IEEE MIT Undergraduate Research Technology Conference (URTC), Oct. 2023 at MIT, Cambridge. *To appear on IEEE Xplore.* 
+
 1. Carleton, T., Arguedas, K., Hess, H., Klos S., Malevich, S., McCusker, K., Sehaumpai, M., Tavarez, H., Wimberger, E. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
 
 <b>Education / Experience :</b> 
@@ -37,5 +39,7 @@ I am always open to discussing research ideas and academic collaborations ~
 
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
+
+🎵 Some of my favorite songs ~ [記得很清楚](https://www.youtube.com/watch?v=bNC0HXdaDig), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [星河万里](https://www.youtube.com/watch?v=K7_b9LAjf7k), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [满天星辰不及你](https://www.youtube.com/watch?v=u1DN6TT78IE), [我曾遇到一束光](https://www.youtube.com/watch?v=3jOKM1HYddY), [浴火成诗](https://www.youtube.com/watch?v=ysbkoZBJXWM), [后继者](https://www.youtube.com/watch?v=JNB15iGztrY), [怎麼遇見你](https://www.youtube.com/watch?v=BQqf7AuZpYM).
 
 *Last updated: August 2023*
