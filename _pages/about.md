@@ -12,7 +12,7 @@ Welcome to my page! I am a last semester applied math & CS major at the City Col
 
 Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
 
-When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. Copy of my [CV](https://www.dropbox.com/s/8a0xrox1815phcv/MS_CV_P_07_2023.pdf?dl=0). 
+When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. 
 
 <b>Research & Interests :</b> 📚
 
