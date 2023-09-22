@@ -12,15 +12,13 @@ Welcome to my page! I am a last semester applied math & CS major at the City Col
 
 Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
 
-When not working, I can be found cycling on a Citi bike 🚴 or listening to some music 🎵. 
-
 <b>Research & Interests :</b> 📚
 
-My interests are in applied and interdisciplinary projects. In particular, I am interested in biostatistics and data science. I am enthusiastic about the application of probability and statistics in clinical trials and computational biology among others.   
+I am interested in biostatistics and data science. In particular, I am interested in computational sciences and the application of probability and statistics in clinical trials and computational biology among others. 
 
 Publications : 
 
-2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple, Z. Zhu. *MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration*. 2023 IEEE MIT Undergraduate Research Technology Conference (URTC), Oct. 2023. *To appear on IEEE Xplore.* 
+2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple, Z. Zhu. *MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration*. IEEE MIT Undergraduate Research Technology Conference (URTC), Oct. 2023. *To appear on IEEE Xplore.* 
 
 1. Carleton, T., Arguedas, K., Hess, H., Klos S., Malevich, S., McCusker, K., Sehaumpai, M., Tavarez, H., Wimberger, E. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
 
@@ -40,6 +38,6 @@ I am always open to discussing research ideas and academic collaborations ~
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 Some of my favorite songs ~ [記得很清楚](https://www.youtube.com/watch?v=bNC0HXdaDig), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [满天星辰不及你](https://www.youtube.com/watch?v=u1DN6TT78IE), [浴火成诗](https://www.youtube.com/watch?v=ysbkoZBJXWM).
+🎵 Some of my favorite songs ~ [記得很清楚](https://www.youtube.com/watch?v=bNC0HXdaDig), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [满天星辰不及你](https://www.youtube.com/watch?v=u1DN6TT78IE), [浴火成诗](https://www.youtube.com/watch?v=ysbkoZBJXWM), [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [无人之岛](https://www.youtube.com/watch?v=bWIEbwBtMV0).
 
-*Last updated: August 2023*
+*Last updated: September 2023*
