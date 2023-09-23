@@ -12,11 +12,13 @@ Welcome to my page! I am a last semester applied math & CS major at the City Col
 
 Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
 
-<b>Research & Interests :</b> 📚
+<b>Research :</b> 📚
 
 I am interested in biostatistics and data science. In particular, I am interested in computational sciences and the application of probability and statistics in clinical trials and computational biology among others. 
 
-Publications : 
+Publications & preprint (in reverse chronological order): 
+
+3. J. F. Booth and M. Sehaumpai. *Temporal Clustering of East Coast Cyclones*. Submitted for publication.
 
 2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple, Z. Zhu. *MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration*. IEEE MIT Undergraduate Research Technology Conference (URTC), Oct. 2023. *To appear on IEEE Xplore.* 
 
