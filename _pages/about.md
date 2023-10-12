@@ -33,6 +33,10 @@ Publications & preprint (in reverse chronological order):
 - 05/2022-08/2022: Student participant, Google Software Product Sprint (SPS) program
 - 2019-present: B.S. Applied Mathematics & Computer Science, CUNY City College
 
+<b> Mentoring : </b>
+
+<u>Sophia Alfaro</u> (high school student), *Science Mentorship Institute, May-Sept. 2023*. Project: Comprehensive breast cancer data analysis research with hypothesis testing and machine learning.
+
 <b>Contact :</b> 📫
 
 I am always open to discussing research ideas and academic collaborations ~ 
