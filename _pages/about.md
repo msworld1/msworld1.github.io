@@ -35,7 +35,7 @@ Publications & preprint (in reverse chronological order):
 
 <b> Mentoring : </b>
 
-- <u>Sophia Alfaro</u> (high school student), *Science Mentorship Institute, May-Sept. 2023*. Project: Comprehensive breast cancer data analysis research with hypothesis testing and machine learning.
+- <u>Sophia Alfaro</u> (high school student), *Science Mentorship Institute, June-Sept. 2023*. Project: Comprehensive breast cancer data analysis research with hypothesis testing and machine learning.
 
 <b>Contact :</b> 📫
 
