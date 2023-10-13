@@ -28,14 +28,14 @@ Publications & preprint (in reverse chronological order):
 
 - 06/2023-present: Research Assistant, Computational neuroscience group 
 - 2020-present: Research Assistant, Research in Atmospheric Dynamics Group
-- 05/2023-present: Mentor, Science Mentorship Institute (sci-MI)
+- 05/2023-present: Research Mentor (voluntary), Science Mentorship Institute (sci-MI)
 - 05/2022-08/2022: Research Intern, Rhodium Group LLC
 - 05/2022-08/2022: Student participant, Google Software Product Sprint (SPS) program
 - 2019-present: B.S. Applied Mathematics & Computer Science, CUNY City College
 
 <b> Mentoring : </b>
 
-<u>Sophia Alfaro</u> (high school student), *Science Mentorship Institute, May-Sept. 2023*. Project: Comprehensive breast cancer data analysis research with hypothesis testing and machine learning.
+- <u>Sophia Alfaro</u> (high school student), *Science Mentorship Institute, May-Sept. 2023*. Project: Comprehensive breast cancer data analysis research with hypothesis testing and machine learning.
 
 <b>Contact :</b> 📫
 
