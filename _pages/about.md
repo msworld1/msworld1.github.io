@@ -44,6 +44,4 @@ I am always open to discussing research ideas and academic collaborations ~
 - 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
 - 🌎 Lab : Marshak Room MR902
 
-🎵 Some of my favorite songs ~ [記得很清楚](https://www.youtube.com/watch?v=bNC0HXdaDig), [硃砂](https://www.youtube.com/watch?v=rrEs9SzTxPo), [奔赴星空](https://www.youtube.com/watch?v=V-8YuvTLMl8), [一念逍遙](https://www.youtube.com/watch?v=RT8P742zPB4), [最天使](https://www.youtube.com/watch?v=azynen7n8cw), [我愛你不問歸期](https://www.youtube.com/watch?v=zaCsjAV-xC4), [满天星辰不及你](https://www.youtube.com/watch?v=u1DN6TT78IE), [浴火成诗](https://www.youtube.com/watch?v=ysbkoZBJXWM), [紅日](https://www.youtube.com/watch?v=YQn8FXuIHTU), [无人之岛](https://www.youtube.com/watch?v=bWIEbwBtMV0).
-
-*Last updated: September 2023*
+*Last updated: October 2023*
