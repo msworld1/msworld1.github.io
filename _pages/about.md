@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I am a last semester applied math & CS major at the City College of New York, CUNY. I am currently a research assistant in the [Research in Atmospheric Dynamics Group](https://jfbooth.ccny.cuny.edu/) advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. I am also a research assistant in Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group studying computational neuroscience 🧠. I am grateful to be funded by the Goldwater Foundation and previously the City College Fellowship.
+Welcome to my page! I am a last semester applied math & CS major at the City College of New York, CUNY. I am currently a research assistant in the [Research in Atmospheric Dynamics Group](https://jfbooth.ccny.cuny.edu/) advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. I also worked in Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/)'s research group, where I studied computational neuroscience 🧠. I am grateful to be funded by the Goldwater Foundation and previously the City College Fellowship.
 
 Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
 
@@ -26,8 +26,8 @@ Publications & preprint (in reverse chronological order):
 
 <b>Education / Experience :</b> 
 
-- 06/2023-present: Research Assistant, Computational neuroscience group 
 - 2020-present: Research Assistant, Research in Atmospheric Dynamics Group
+- 06/2023-10/2023: Research Assistant, Computational neuroscience group 
 - 05/2023-present: Research Mentor (voluntary), Science Mentorship Institute (sci-MI)
 - 05/2022-08/2022: Research Intern, Rhodium Group LLC
 - 05/2022-08/2022: Student participant, Google Software Product Sprint (SPS) program
