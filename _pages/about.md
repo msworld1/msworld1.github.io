@@ -14,7 +14,7 @@ Before, I also had great time learning from and doing math with Dr. [Michael Wij
 
 <b>Research :</b> 📚
 
-I am interested in biostatistics and data science. In particular, I am interested in computational sciences and the application of probability and statistics in clinical trials and computational biology among others. 
+I am interested in biostatistics and data science. In particular, I am interested in computational sciences and the application of probability and statistics in clinical trials and health-related research among others. 
 
 Publications & preprint (in reverse chronological order): 
 
@@ -41,7 +41,7 @@ Publications & preprint (in reverse chronological order):
 
 I am always open to discussing research ideas and academic collaborations ~ 
 
-- 📧 Email : msehaumpai<span>@<span>ccny.cuny.edu 
+- 📧 Email : msehaumpai \[at\] ccny \[dot\] cuny \[dot\] edu 
 - 🌎 Lab : Marshak Room MR902
 
 *Last updated: October 2023*
