@@ -12,6 +12,12 @@ Welcome to my page! I am a last semester applied math & CS major at the City Col
 
 Before, I also had great time learning from and doing math with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️
 
+<b>News :</b>
+
+[Oct. 2023] 📚 I will be attending the American Meteorological Society Annual Meeting in Baltimore, MD in January, 2024. 
+
+[Sep. 2023] 📎 Our work on a progressive training app for AMD patients was accepted as a conference paper at the IEEE MIT URTC 2023. 
+
 <b>Research :</b> 📚
 
 I am interested in biostatistics and data science. In particular, I am interested in computational sciences and the application of probability and statistics in clinical trials and health-related research among others. 
