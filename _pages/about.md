@@ -14,9 +14,9 @@ Before, I also had great time learning from and doing math with Dr. [Michael Wij
 
 <b>News :</b>
 
-[Oct. 2023] 📚 I will be attending the American Meteorological Society conference in Baltimore in January, 2024. 
+[Oct. 2023] 📃 I will be presenting our poster on temporal clustering at the American Meteorological Society conference in Baltimore in January, 2024 ~ 
 
-[Sep. 2023] 📎 Our work on a progressive training app for AMD patients was accepted as a conference paper at the IEEE MIT URTC 2023. 
+[Sep. 2023] 📑 Our work on a progressive training app for AMD patients was accepted as a conference paper at the IEEE MIT URTC 2023. 
 
 <b>Research :</b> 📚
 
