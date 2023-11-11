@@ -22,6 +22,8 @@ Before, I also had great time learning from and doing math with Dr. [Michael Wij
 
 I am interested in biostatistics and data science. In particular, I am interested in computational sciences and the application of probability and statistics in clinical trials and health-related research among others. 
 
+I am also developing interests in clinical psychology research, particularly in hypochondria and somatic symptom disorder. 
+
 Publications & preprint (in reverse chronological order): 
 
 3. J. F. Booth and M. Sehaumpai. *Temporal Clustering of East Coast Cyclones*. Submitted for publication.
