@@ -52,4 +52,12 @@ I am always open to discussing research ideas and academic collaborations ~
 - 📧 Email : msehaumpai \[at\] ccny \[dot\] cuny \[dot\] edu 
 - 🌎 Lab : Marshak Room MR902
 
+<b>Reminders </b>
+
+"Your mental health is just as important as your physical health. Fighting! 🙌"
+
+"You deserve and are worthy of happiness. Smile 🙂".  
+
+If you or someone you know is in crisis [[Link]](https://www.nimh.nih.gov/site-info/if-you-or-someone-you-know-is-in-crisis-and-needs-immediate-help#:~:text=Call%20911%20for%20emergency%20services,suicidal%20crisis%20or%20emotional%20distress.).
+
 *Last updated: October 2023*
