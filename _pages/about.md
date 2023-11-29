@@ -52,7 +52,7 @@ I am always open to discussing research ideas and academic collaborations ~
 - 📧 Email : msehaumpai \[at\] ccny \[dot\] cuny \[dot\] edu 
 - 🌎 Lab : Marshak Room MR902
 
-<b>Reminders </b>
+<b>Reminders ~</b>
 
 "Your mental health is just as important as your physical health. Fighting! 🙌"
 
