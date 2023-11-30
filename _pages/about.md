@@ -28,7 +28,7 @@ Publications & preprint (in reverse chronological order):
 
 3. J. F. Booth and M. Sehaumpai. *Temporal Clustering of East Coast Cyclones*. Submitted for publication.
 
-2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple, Z. Zhu. *MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration*. IEEE MIT Undergraduate Research Technology Conference (URTC), Oct. 2023. *To appear on IEEE Xplore.* 
+2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple, Z. Zhu. *MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration*. IEEE MIT Undergraduate Research Technology Conference (URTC), Oct. 2023. *To appear on IEEE Xplore.* [[preprint]](http://ccvcl.org/wp-content/uploads/2023/11/MAC-You-Vision_URTC_manuscript_final_submit.pdf)
 
 1. Carleton, T., Arguedas, K., Hess, H., Klos S., Malevich, S., McCusker, K., Sehaumpai, M., Tavarez, H., Wimberger, E. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
 
