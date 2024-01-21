@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I am currently a postgraduate researcher at the City College of New York in the [Research in Atmospheric Dynamics Group](https://jfbooth.ccny.cuny.edu/) advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. Outside the College, I serve as a research mentor in the neuroscience and biology mentorship programs of the [Science Mentorship Institute](https://sci-mi.github.io/). I am delighted to be a part of this non-profit providing free and open-sourced research mentorship to students from underserved communities or underrepresented in science 📚.
+Welcome to my page! I am currently a postgraduate researcher at the City College of New York in the [Research in Atmospheric Dynamics Group](https://jfbooth.ccny.cuny.edu/) advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. Outside the College, I volunteer as a mentor in the neuroscience and biology mentorship programs of the [Science Mentorship Institute](https://sci-mi.github.io/). I am delighted to be a part of this non-profit providing free and open-sourced research mentorship to students from underserved communities or underrepresented in science 📚.
 
 I graduated in January 2024 with a B.S. in Applied Mathematics and Computer Science. During my undergraduate years, I am also grateful to have worked with Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/) and [Atanas Stankov](https://www.linkedin.com/in/atanas-stankov-79b75254/), where I conducted research in computational neuroscience 🧠, and also with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️ I am grateful to be funded by the Goldwater Foundation and the City College Fellowship.
-
-<b>News :</b>
-
-[Oct. 2023] 📃 I will be presenting our poster on temporal clustering at the American Meteorological Society conference in Baltimore in January, 2024 ~ 
 
 <b>Research :</b> 📚
 
@@ -31,7 +27,6 @@ Publications & preprint (in reverse chronological order):
 <b>Education / Experience :</b> 
 
 - 01/2024-present: Postgraduate Researcher, Research in Atmospheric Dynamics Group  
-- 05/2023-present: Research Mentor (voluntary), Science Mentorship Institute (sci-MI)
 - 2020-2023: Research Assistant, Research in Atmospheric Dynamics Group
 - 06/2023-10/2023: Research Assistant, Computational neuroscience group 
 - 05/2022-08/2022: Research Intern, Rhodium Group LLC
