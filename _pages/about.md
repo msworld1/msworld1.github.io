@@ -10,11 +10,11 @@ redirect_from:
 
 Welcome to my page! I am currently a postgraduate researcher at the City College of New York in the [Research in Atmospheric Dynamics Group](https://jfbooth.ccny.cuny.edu/) advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. Outside the College, I volunteer as a mentor in the neuroscience and biology mentorship programs of the [Science Mentorship Institute](https://sci-mi.github.io/). I am delighted to be a part of this non-profit providing free and open-sourced research mentorship to students from underserved communities or underrepresented in science 📚.
 
-I graduated in January 2024 with a B.S. in Applied Mathematics and Computer Science. During my undergraduate years, I am also grateful to have worked with Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/) and [Atanas Stankov](https://www.linkedin.com/in/atanas-stankov-79b75254/), where I conducted research in computational neuroscience 🧠, and also with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️ I am grateful to be funded by the Goldwater Foundation and the City College Fellowship.
+Previously, I graduated from CCNY in January 2024 with a B.S. in Applied Mathematics and Computer Science. During my undergraduate years, I am also grateful to have worked with Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/) and [Atanas Stankov](https://www.linkedin.com/in/atanas-stankov-79b75254/), where I conducted research in computational neuroscience 🧠, and also with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️ I am grateful to have been funded by the Goldwater Foundation and the City College Fellowship.
 
 <b>Research :</b> 📚
 
-I am interested in biostatistics and data science. In particular, I am interested in computational sciences and the application of probability and statistics in psychology and health-related research among others. I am currently developing interests in clinical psychology research.
+I am interested in biostatistics and data science. In particular, I am interested in computational sciences and the application of probability and statistics in health-related research. 
 
 Publications & preprint (in reverse chronological order): 
 
