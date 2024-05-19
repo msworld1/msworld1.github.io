@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I am currently a postgraduate researcher at the City College of New York in the [Research in Atmospheric Dynamics Group](https://jfbooth.ccny.cuny.edu/), where I am fortunate to be advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. Outside the College, I volunteer as a research mentor in the neuroscience and biology programs of the [Science Mentorship Institute](https://www.sci-mi.org/). I am delighted to be a part of this non-profit providing free and open-sourced research mentorship to students from underserved communities or underrepresented in science 📚.
+Welcome to my page! I am currently a research assistant in the [Research in Atmospheric Dynamics Group](https://jfbooth.ccny.cuny.edu/) at the City College of New York, where I am fortunate to be advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. Outside the College, I volunteer as a research mentor in the neuroscience and biology programs of the [Science Mentorship Institute](https://www.sci-mi.org/). I am delighted to be a part of this non-profit providing free and open-sourced research mentorship to students from underserved communities or underrepresented in science 📚.
 
-I previously completed my undergraduate studies at CCNY. I am grateful to have worked with Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/) on computational neuroscience 🧠, Prof. [Zhigang Zhu](http://ccvcl.org/professor-zhigang-zhu/) and Dr. [William H. Seiple](https://lighthouseguild.org/people/william-h-seiple-phd/) on low-vision rehabilitation 👀, and also with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️ I am grateful to have been funded by the Goldwater Foundation and the City College Fellowship.
+I previously completed my undergraduate studies at CCNY. I am grateful to have worked with Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/) 🧠, Prof. [Zhigang Zhu](http://ccvcl.org/professor-zhigang-zhu/) 👀, Dr. [William H. Seiple](https://lighthouseguild.org/people/william-h-seiple-phd/) 👀, and also with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️ I am grateful to have been funded by the Goldwater Foundation and the City College Fellowship.
 
 <b>Research :</b> 📚
 
@@ -26,8 +26,7 @@ Publications & preprint (in reverse chronological order):
 
 <b>Education / Experience :</b> 
 
-- 01/2024-present: Postgraduate Researcher, Research in Atmospheric Dynamics Group  
-- 2020-2023: Research Assistant, Research in Atmospheric Dynamics Group
+- 2020-present: Research Assistant, Research in Atmospheric Dynamics Group
 - 06/2023-10/2023: Research Assistant, Computational neuroscience group 
 - 05/2022-08/2022: Research Intern, Rhodium Group LLC
 - 2019-2023: B.S. Applied Mathematics & Computer Science, City College of New York, CUNY
@@ -48,8 +47,6 @@ I am always open to discussing research ideas and academic collaborations ~
 "Your mental health is just as important as your physical health, Fighting! 🙌"
 
 "Are you thinking too much about the future? Can we focus on making today a better day instead? 🙂" 
-
-"You deserve and are worthy of happiness, Smile 😃".  
 
 If you or someone you know is in crisis [[Link]](https://www.nimh.nih.gov/site-info/if-you-or-someone-you-know-is-in-crisis-and-needs-immediate-help#:~:text=Call%20911%20for%20emergency%20services,suicidal%20crisis%20or%20emotional%20distress.).
 
