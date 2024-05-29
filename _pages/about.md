@@ -20,7 +20,7 @@ Publications & preprint (in reverse chronological order):
 
 3. J. F. Booth and M. Sehaumpai. *Temporal Clustering of East Coast Cyclones*. Submitted for publication, under revision.
 
-2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple, Z. Zhu. *MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration*. IEEE MIT Undergraduate Research Technology Conference (URTC), Oct. 2023. *To appear on IEEE Xplore.* [[Preprint]](http://ccvcl.org/wp-content/uploads/2023/11/MAC-You-Vision_URTC_manuscript_final_submit.pdf) [[Slides]](https://drive.google.com/file/d/19isUQ7h7rOOezoKfYCO_b7YtObgGWr5-/view?usp=sharing)
+2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple and Z. Zhu, "MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration," 2023 IEEE MIT Undergraduate Research Technology Conference (URTC), Cambridge, MA, USA, 2023, pp. 1-5. [[Link]](https://ieeexplore.ieee.org/document/10534931) [[Preprint]](http://ccvcl.org/wp-content/uploads/2023/11/MAC-You-Vision_URTC_manuscript_final_submit.pdf) [[Slides]](https://drive.google.com/file/d/19isUQ7h7rOOezoKfYCO_b7YtObgGWr5-/view?usp=sharing)
 
 1. Carleton, T., Arguedas, K., Hess, H., Klos S., Malevich, S., McCusker, K., Sehaumpai, M., Tavarez, H., Wimberger, E. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
 
@@ -44,10 +44,10 @@ I am always open to discussing research ideas and academic collaborations ~
 
 <b>Reminders ~</b>
 
-"Your mental health is just as important as your physical health, Fighting! 🙌"
+"Your mental health is just as important as your physical health 🙂"
 
-"Are you thinking too much about the future? Can we focus on making today a better day instead? 🙂" 
+"Are you thinking too much about the future? Can we focus on making today a better day instead? Fighting! 🙌" 
 
 If you or someone you know is in crisis [[Link]](https://www.nimh.nih.gov/site-info/if-you-or-someone-you-know-is-in-crisis-and-needs-immediate-help#:~:text=Call%20911%20for%20emergency%20services,suicidal%20crisis%20or%20emotional%20distress.).
 
-*Last updated: March 2024*
+*Last updated: May 2024*
