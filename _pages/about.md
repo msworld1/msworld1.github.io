@@ -35,13 +35,6 @@ Publications & preprint (in reverse chronological order):
 
 - <u>Sophia Alfaro</u>, *Science Mentorship Institute, June-Sept. 2023*. Project: Comprehensive breast cancer data analysis research with hypothesis testing and machine learning. (Most recently: incoming undergraduate at Vanderbilt University)
 
-<b>Contact :</b> 📫
-
-I am always open to discussing research ideas and academic collaborations ~ 
-
-- 📧 Email : msehaumpai \[at\] ccny \[dot\] cuny \[dot\] edu 
-- 🌎 Lab : Marshak Room MR902
-
 <b>Reminders ~</b>
 
 "Your mental health is just as important as your physical health 🙂"
