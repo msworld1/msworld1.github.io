@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my page! I am currently a research assistant in the [Research in Atmospheric Dynamics Group](https://jfbooth.ccny.cuny.edu/) at the City College of New York, where I am fortunate to be advised by Prof. [James F. Booth](https://www.ccny.cuny.edu/profiles/james-booth) 🌀🌊. Outside the College, I volunteer as a research mentor in the neuroscience and biology programs of the [Science Mentorship Institute](https://www.sci-mi.org/). I am delighted to be a part of this non-profit providing free and open-sourced research mentorship to students from underserved communities or underrepresented in science 📚.
 
-I previously completed my undergraduate studies at CCNY. I am grateful to have worked with Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/) 🧠, Prof. [Zhigang Zhu](http://ccvcl.org/professor-zhigang-zhu/) 👀, Dr. [William H. Seiple](https://lighthouseguild.org/people/william-h-seiple-phd/) 👀, and also with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️ I am grateful to have been funded by the Goldwater Foundation and the City College Fellowship.
+I previously completed my undergraduate studies at CCNY. I am grateful to have worked with Prof. [Asohan Amarasingham](https://math.sci.ccny.cuny.edu/person/asohan-amarasingham/) 🧠, Prof. [Zhigang Zhu](http://ccvcl.org/professor-zhigang-zhu/) 👀, Dr. [William H. Seiple](https://lighthouseguild.org/people/william-h-seiple-phd/) 👀, and also with Dr. [Michael Wijaya](https://holdfirst.wordpress.com/), who is my inspiration for studying mathematics yay! 📔✏️ 
 
 <b>Research :</b> 📚
 
@@ -20,7 +20,7 @@ Publications & preprint (in reverse chronological order):
 
 3. J. F. Booth and M. Sehaumpai. *Temporal Clustering of East Coast Cyclones*. Submitted for publication, under revision.
 
-2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple and Z. Zhu, "MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration," 2023 IEEE MIT Undergraduate Research Technology Conference (URTC), Cambridge, MA, USA, 2023, pp. 1-5. [[Link]](https://ieeexplore.ieee.org/document/10534931) [[Preprint]](http://ccvcl.org/wp-content/uploads/2023/11/MAC-You-Vision_URTC_manuscript_final_submit.pdf) [[Slides]](https://drive.google.com/file/d/19isUQ7h7rOOezoKfYCO_b7YtObgGWr5-/view?usp=sharing)
+2. A. Tepoxtecatl, C. Yang, M. Sehaumpai, W. H. Seiple and Z. Zhu, "MAC-You-Vision: A Progressive Training Application for Patients with Age-Related Macular Degeneration," 2023 IEEE MIT Undergraduate Research Technology Conference (URTC), Cambridge, MA, USA, 2023, pp. 1-5. [[Link]](https://ieeexplore.ieee.org/document/10534931)
 
 1. Carleton, T., Arguedas, K., Hess, H., Klos S., Malevich, S., McCusker, K., Sehaumpai, M., Tavarez, H., Wimberger, E. *Climate Vulnerability Metric: Unequal Climate Impacts in the State of California*. California Air Resources Board, Sept. 2022. [[Link]](https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-appendix-k-climate-vulnerability-metric_0.pdf)
 
