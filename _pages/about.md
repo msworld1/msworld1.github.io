@@ -43,6 +43,6 @@ Publications & preprints (in reverse chronological order):
 
 "Are you worrying about the future? Can we focus on making today a better day instead? 🙌" 
 
-"You can always begin again 🙂"
+"No matter how hard the past, you can always begin again," Buddha. 
 
 *Last updated: August 2024*
