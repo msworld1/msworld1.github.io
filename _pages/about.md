@@ -18,7 +18,7 @@ I am generally interested in biostatistics and data science. In particular, I ho
 
 Publications & preprints (in reverse chronological order): 
 
-4. W. Chang Cen, H. Li, M. Sehaumpai, W. H. Seiple, Z. Zhu. *MAC-U-Vision+: An Improved Application for Individuals with Age-Related Macular Degeneration*. Submitted for publication. 
+4. W. Chang Cen, H. Li, M. Sehaumpai, W. H. Seiple, Z. Zhu. MAC-U-Vision+: An Improved Application for Individuals with Age-Related Macular Degeneration, *Journal on Technology and Persons with Disabilities*. Accepted.
 
 3. J. F. Booth and M. Sehaumpai. *Temporal Clustering of East Coast Cyclones*. Under revision. 
 
