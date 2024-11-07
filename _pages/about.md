@@ -14,8 +14,6 @@ I previously completed my undergraduate study at the City College of New York. I
 
 <b>Research :</b> 📚
 
-I am generally interested in biostatistics and data science. In particular, I hope to explore into the application of statistics and computational sciences in health-related research. 
-
 Publications & preprints (in reverse chronological order): 
 
 4. W. Chang Cen, H. Li, M. Sehaumpai, W. H. Seiple, Z. Zhu. MAC-U-Vision+: An Improved Application for Individuals with Age-Related Macular Degeneration, *Journal on Technology and Persons with Disabilities*. Accepted.
